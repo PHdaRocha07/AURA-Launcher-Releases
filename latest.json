@@ -1,0 +1,9 @@
+{
+  "versionCode": 1,
+  "versionName": "0.1.0",
+  "apkUrl": "",
+  "sha256": "",
+  "releaseNotes": "Canal de atualizações inicializado. A primeira versão assinada será publicada após a validação do build.",
+  "releaseUrl": "https://github.com/PHdaRocha07/AURA-Launcher-Releases/releases",
+  "minSdk": 26
+}
