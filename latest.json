@@ -1,9 +1,9 @@
 {
-  "versionCode": 17,
-  "versionName": "0.1.1",
-  "apkUrl": "https://github.com/PHdaRocha07/AURA-Launcher-Releases/releases/download/v0.1.1/AURA-Launcher.apk",
-  "sha256": "6511bd4f0f6b4a513969f26ff5eeaca093d87bfe2b90575c2c82aaef362e96b4",
-  "releaseNotes": "Versão 0.1.1 do AURA Launcher.",
-  "releaseUrl": "https://github.com/PHdaRocha07/AURA-Launcher-Releases/releases/tag/v0.1.1",
+  "versionCode": 18,
+  "versionName": "0.1.2",
+  "apkUrl": "https://github.com/PHdaRocha07/AURA-Launcher-Releases/releases/download/v0.1.2/AURA-Launcher.apk",
+  "sha256": "b5479027c23ca43a81421d22792fc760d4471cc58c6dd3d61a5129c01cb10c15",
+  "releaseNotes": "Versão 0.1.2 do AURA Launcher.",
+  "releaseUrl": "https://github.com/PHdaRocha07/AURA-Launcher-Releases/releases/tag/v0.1.2",
   "minSdk": 26
 }
